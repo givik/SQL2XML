@@ -1,4 +1,4 @@
 SQL2XML
 =======
 
-Class for working with xml, using SQL commands.
+Class for working with XML files, using SQL commands
